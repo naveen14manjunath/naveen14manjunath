@@ -1,8 +1,9 @@
 ## Hi, I'm Naveen Manjunath! 👋
 
-A dynamic Data Analyst with a love for turning numbers into actionable insights and strategies. Whether it’s optimizing marketing campaigns or diving deep into gaming data, I thrive on solving complex problems and making data-driven decisions.
+👩🏻‍💻 A dynamic Data Analyst sharing about my journey and learnings in Analytics.</br>
+👩🏻‍🎓 Studied Business Analytics at the Audencia Business School, France.</br>
+💭 Currently learning about data analytics and BigQuery!</br>
 
-🌍 Location: Paris, France.</br>
 🎯 Specialty: Data analytics, predictive modeling, and creating visually engaging dashboards that tell compelling stories.</br>
 🌱 Currently Exploring: Advanced data science techniques, predictive analytics in gaming, and mastering Dagster!</br>
 🕹️ Fun Fact: I’ve analyzed thousands of rows of gaming data to help companies level up their user retention strategies.</br>
@@ -32,7 +33,3 @@ Tools: Python (Pandas), Tableau</br>
 Developed a predictive model to forecast user churn with 85% accuracy, improving retention strategies.</br>
 Tools: Python (Scikit-learn), Excel</br>
 
-✨ Let's Connect!
-💼 LinkedIn</br>
-📫 Email: [naveenmanjunath21@gmail.com]</br>
-🌟 Check out my repositories below for a deep dive into my work!
