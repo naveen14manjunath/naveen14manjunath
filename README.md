@@ -2,7 +2,7 @@
 
 👩🏻‍💻 A dynamic Data Analyst sharing about my journey and learnings in Analytics.</br>
 👩🏻‍🎓 Studied Business Analytics at the Audencia Business School, France.</br>
-💭 Currently learning about data analytics and BigQuery!</br>
+💭 Currently learning BigQuery!</br>
 
 🎯 Specialty: Data analytics, predictive modeling, and creating visually engaging dashboards that tell compelling stories.</br>
 🌱 Currently Exploring: Advanced data science techniques, predictive analytics in gaming, and mastering Dagster!</br>
