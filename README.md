@@ -1,35 +1,40 @@
-## Hi, I'm Naveen Manjunath! 👋
+# Hi, I'm Naveen Manjunath 👋
 
-👩🏻‍💻 A dynamic Data Analyst sharing about my journey and learnings in Analytics.</br>
-👩🏻‍🎓 Studied Business Analytics at the Audencia Business School, France.</br>
-💭 Currently learning BigQuery!</br>
+### Data Analyst | Data Enthusiast
 
-🎯 Specialty: Data analytics, predictive modeling, and creating visually engaging dashboards that tell compelling stories.</br>
-🌱 Currently Exploring: Advanced data science techniques, predictive analytics in gaming, and mastering Dagster!</br>
-🕹️ Fun Fact: I’ve analyzed thousands of rows of gaming data to help companies level up their user retention strategies.</br>
-💡 My Toolbox
-Here’s what I use to make magic happen:
+Welcome to my GitHub profile! I'm a passionate Data Analyst leveraging data to drive strategic decision-making, optimize processes, and deliver measurable business impact. I specialize in **SQL, Python, Tableau, and Power BI**, and I thrive on transforming complex data into actionable insights.
 
-🚀 Languages & Tools
-Data Crunching: Python (Pandas, NumPy, Matplotlib), SQL</br>
-Visualization: Tableau, Power BI, Looker</br>
-Databases: Apache Druid, PostgreSQL, AWS Aurora</br>
-Other Tech: Jupyter Notebooks, Excel (advanced functions, VBA)</br>
+## 🛠️ **Technical Skills and Tools**
+ <p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="50" height="50"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
+  </a>
+  <a href="https://www.tableau.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="80" height="60"/>
+  </a>
+ </p> 
 
-🔧 What I’m Learning
-Building scalable data pipelines</br>
-Gamified predictive analytics models</br>
+## 🌟 **Highlighted Projects**
+### 1. **Student Mental Health Analysis**
+   - Analyzing the Impact of Length of Stay on Mental Health Scores of International Students.
+   - [Link to Repository](https://github.com/naveen14manjunath/student_mental_health_analysis)
 
-🏆 Recent Projects
-🎮 Gaming Data Insights Dashboard
-Built a real-time monitoring dashboard for tracking KPIs for gaming clients, reducing payment failure rates by 6%.</br>
-Tools: Looker, SQL, Apache Druid</br>
 
-📊 Optimizing Marketing Campaigns
-Analyzed over 40k rows of marketing data to identify trends and boost engagement rates by 20%.</br>
-Tools: Python (Pandas), Tableau</br>
 
-🔍 Predictive Churn Analysis
-Developed a predictive model to forecast user churn with 85% accuracy, improving retention strategies.</br>
-Tools: Python (Scikit-learn), Excel</br>
 
+ 
