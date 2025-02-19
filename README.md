@@ -2,7 +2,7 @@
 
 ### Data Analyst | Data Enthusiast
 
-Welcome to my GitHub profile! I'm a passionate Data Analyst leveraging data to drive strategic decision-making, optimize processes, and deliver measurable business impact. I specialize in **SQL, Python, Tableau, and Power BI**, and I thrive on transforming complex data into actionable insights.
+Data Analyst leveraging data to drive strategic decision-making, optimize processes, and deliver measurable business impact. I specialize in **SQL, Python, Tableau, and Power BI**, and I thrive on transforming complex data into actionable insights.
 
 ## 🛠️ **Technical Skills and Tools**
  <p align="center">
