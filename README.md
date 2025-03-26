@@ -30,9 +30,9 @@ Data Analyst leveraging data to drive strategic decision-making, optimize proces
  </p> 
 
 ## 🌟 **Highlighted Projects**
-### 1. **Student Mental Health Analysis**
-   - Analyzing the Impact of Length of Stay on Mental Health Scores of International Students.
-   - [Link to Repository](https://github.com/naveen14manjunath/student_mental_health_analysis)
+### 1. **Netflix_exploratory_data_analysis (Python)**
+   - Extract, process the netflix csv file data and perform exploratory data analysis to understand the movies industry during the 1990's.
+   - [Link to Repository] [(https://github.com/naveen14manjunath/netflix_exploratory_data_analysis)]
 
 
 
