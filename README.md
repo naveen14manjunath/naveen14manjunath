@@ -30,9 +30,16 @@ Data Analyst leveraging data to drive strategic decision-making, optimize proces
  </p> 
 
 ## 🌟 **Highlighted Projects**
-### 1. **Netflix_exploratory_data_analysis (Python)**
-   - Extract, process the netflix csv file data and perform exploratory data analysis to understand the movies industry during the 1990's.
-   - [Link to Repository] [(https://github.com/naveen14manjunath/netflix_exploratory_data_analysis)]
+### 1. **E-Commerce-marketplace-campaign-analysis**
+   - This project analyzes marketing performance for an e-commerce marketplace using session, cost, and earnings data. The focus is to
+1. Evaluate Return on Ad Spend (ROAS) by marketing channel and traffic source
+2. Understand seasonality and identify weeks where ROAS spikes/dips
+3. Recommend budget reallocations to improve efficiency during peak and low-demand periods
+   - [Link to Repository] [((https://github.com/naveen14manjunath/E-Commerce-marketplace-campaign-analysis))]
+
+### 2. **Marketing-Analytics-Subscription-based-product**
+   - This project presents an anonymized A/B/C experiment for a subscription-based digital product. The goal was to evaluate whether changing the display order of subscription plan durations on a landing/pricing page influences user conversion outcomes.
+   - - [Link to Repository] [((https://github.com/naveen14manjunath/Marketing-Analytics-Subscription-based-product-)]
 
 
 
