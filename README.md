@@ -48,12 +48,12 @@ Data Analyst leveraging data to drive strategic decision-making, optimize proces
 
 ## 🌟 **Highlighted Projects**
 ### 1. **Databricks Lakehouse ETL Pipeline for Sales Analytics**
-   - Built an end-to-end ETL pipeline on Databricks using Medallion Architecture to transform raw sales data into BI-ready analytics models.
-- Built an **end-to-end ETL pipeline** using Databricks and Medallion Architecture  
-- Designed a **scalable data model (fact & dimensions)** for analytics  
-- Implemented **incremental data processing** using Delta Lake merge  
-- Enabled **BI-ready datasets** powering sales performance dashboards  
-- Applied real-world data cleaning, transformation, and aggregation logic
+- Built an end-to-end ETL pipeline on Databricks using Medallion Architecture to transform raw sales data into BI-ready analytics models.
+1. Built an **end-to-end ETL pipeline** using Databricks and Medallion Architecture  
+2. Designed a **scalable data model (fact & dimensions)** for analytics  
+3. Implemented **incremental data processing** using Delta Lake merge  
+4. Enabled **BI-ready datasets** powering sales performance dashboards  
+5. Applied real-world data cleaning, transformation, and aggregation logic
   
 Tools and tech:   
 
