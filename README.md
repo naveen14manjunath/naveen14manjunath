@@ -59,7 +59,7 @@ Tools and tech:
 
 🔗 **GitHub Repository:** [https://github.com/naveen14manjunath/fmcg-sales-data-pipeline-databricks](https://github.com/naveen14manjunath/fmcg-sales-data-pipeline-databricks)
 
-### 2. **E-Commerce-marketplace-campaign-analysis**
+### 2. **E-Commerce marketplace campaign analysis**
    - This project analyzes marketing performance for an e-commerce marketplace using session, cost, and earnings data. The focus is to
 1. Evaluate Return on Ad Spend (ROAS) by marketing channel and traffic source
 2. Understand seasonality and identify weeks where ROAS spikes/dips
@@ -69,7 +69,7 @@ Tools and tech: SQL, Python (pandas, NumPy), Tableau
   
  🔗  **GitHub Repository:** [https://github.com/naveen14manjunath/E-Commerce-marketplace-campaign-analysis](https://github.com/naveen14manjunath/E-Commerce-marketplace-campaign-analysis)
 
-### 3. **Marketing-Analytics-Subscription-based-product**
+### 3. **Marketing Analytics Subscription based product**
    - This project presents an anonymized A/B/C experiment for a subscription-based digital product. The goal was to evaluate whether changing the display order of subscription plan durations on a landing/pricing page influences user conversion outcomes.
    
    Tools and tech: Python (pandas, matplotlib, statsmodels, NumPy)
